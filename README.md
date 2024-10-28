@@ -5,9 +5,8 @@ A complete setup for deploying and managing Docker containers. Includes Docker C
 - nodejs backend with express module
 - mongodb for data storage
 
-All components are docker-based
-
-### With Docker
+# With Docker
+![01-primary-blue-docker-logo_rl8tst](https://github.com/user-attachments/assets/df6ae12b-5647-4f54-97e1-aaabb96ea6d2)
 
 #### To start the application
 
@@ -71,7 +70,8 @@ Step 7: Access you nodejs application UI from browser
 ![6](https://github.com/user-attachments/assets/bbcfeb37-0375-4812-bf93-eda9a056a3f1)
 
 
-### With Docker Compose
+# With Docker Compose
+![docker-compose-button](https://github.com/user-attachments/assets/d231a0aa-f10f-4ff4-bebb-63c012de04a4)
 
 #### To start the application
 
@@ -116,6 +116,7 @@ Step 5: access the nodejs application from browser
 The dot "." at the end of the command denotes location of the Dockerfile.
 
 # Private Docker Repositry with [ECR](Elastic Container Registry)
+![images](https://github.com/user-attachments/assets/062ec642-0e75-465b-8142-1be0fa7aeb78)
 
 ### Create ECR
 ![20](https://github.com/user-attachments/assets/159804c8-7e2f-4eb3-9310-42d316d72f07)
@@ -128,6 +129,7 @@ The dot "." at the end of the command denotes location of the Dockerfile.
 ![30](https://github.com/user-attachments/assets/096acb9e-4c18-4ec7-9c4d-9a9c135a276e)
 
 # Docker with Nexus Repository OSS (Open Source Software)
+![Rt1mT1vKp](https://github.com/user-attachments/assets/e9b11269-5bfb-4756-9651-993f057d2030)
 
 ### create docker-hosted 
 ![130](https://github.com/user-attachments/assets/549f9bd5-ca36-477c-9da1-ebe90328f7d7)
