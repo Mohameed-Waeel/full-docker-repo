@@ -50,6 +50,7 @@ Step 4: open mongo-express from browser
 Step 5: create `my-db` and `users` in mongo-express
 
 ![0](https://github.com/user-attachments/assets/36dcfc6c-4e73-422c-9223-0567dc83e6a1)
+
 ![00](https://github.com/user-attachments/assets/f65fe992-f407-48ea-842b-616669a1652e)
 
 
@@ -65,8 +66,11 @@ Step 7: Access you nodejs application UI from browser
     
 ### Result
 ![3](https://github.com/user-attachments/assets/0fe234b5-868e-4eff-9250-cbe66a15ec45)
+
 ![4](https://github.com/user-attachments/assets/6fd51e22-704d-432e-b5db-5f4298acd09b)
+
 ![5](https://github.com/user-attachments/assets/1897f760-07ee-4b3f-b743-7fc343c0fd35)
+
 ![6](https://github.com/user-attachments/assets/bbcfeb37-0375-4812-bf93-eda9a056a3f1)
 
 
@@ -80,11 +84,14 @@ Step 1: start mongodb and mongo-express
     docker compose -f docker-compose.yaml up
     
 ![170](https://github.com/user-attachments/assets/0431efa8-b066-492a-abf1-2ef74b92fd21)
+
 ![60](https://github.com/user-attachments/assets/1a5e8b25-7a7e-4e34-8ecf-e9d4433ac145)
+
 ![70](https://github.com/user-attachments/assets/32100c7e-513a-4393-a8e1-a43ded0c7bad)
 
 ### Docker Volumes
 ![80](https://github.com/user-attachments/assets/cd0f9dd0-4aab-44d6-84e7-1c1453b0f633)
+
 ![90](https://github.com/user-attachments/assets/ec569d9d-3547-4986-8d00-48dcd702829a)
 
 
@@ -115,6 +122,13 @@ Step 5: access the nodejs application from browser
     
 The dot "." at the end of the command denotes location of the Dockerfile.
 
+## Push to Docker Hub
+![011](https://github.com/user-attachments/assets/55840619-4423-410a-9b9f-992e2b2666e3)
+
+![0111](https://github.com/user-attachments/assets/34a44e1c-fc48-4da6-b6b3-168d1844af7f)
+
+![01111](https://github.com/user-attachments/assets/1d81e4d8-89b0-4990-a46c-dfc6df179a00)
+
 # Private Docker Repositry with [ECR](Elastic Container Registry)
 ![images](https://github.com/user-attachments/assets/062ec642-0e75-465b-8142-1be0fa7aeb78)
 
@@ -126,6 +140,7 @@ The dot "." at the end of the command denotes location of the Dockerfile.
 
 ### Result
 ![100](https://github.com/user-attachments/assets/c8e31c5c-bb7d-427e-83c5-3b695446455f)
+
 ![30](https://github.com/user-attachments/assets/096acb9e-4c18-4ec7-9c4d-9a9c135a276e)
 
 # Docker with Nexus Repository OSS (Open Source Software)
@@ -145,6 +160,7 @@ The dot "." at the end of the command denotes location of the Dockerfile.
 
 ### result
 ![110](https://github.com/user-attachments/assets/8fb16100-f952-467f-8487-b66bc4395e92)
+
 ![120](https://github.com/user-attachments/assets/b9c0ba67-a597-4b5a-9cde-46a57d99ce18)
 
 
